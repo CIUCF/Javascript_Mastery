@@ -1,6 +1,6 @@
 # Javascript_Mastery
 the purpose of this Project is to practice javascript
-
+![] [Momentum.png]
 1. Javascript DOM
 2. dynamically change Background in html
 3. local storage usage
