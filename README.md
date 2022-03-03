@@ -6,7 +6,7 @@ for Our version, on loading, it would show Good Morning or Afternoon or Evening 
 
 in the images folder there is morning.jpg, afternoon.jpg and evening.jpg, the website background would change according to the time of the day.
 
-things to learn from this Exercise 
+things to learn from this Exercise.
 
 1. Javascript DOM
 2. dynamically change Background in html
